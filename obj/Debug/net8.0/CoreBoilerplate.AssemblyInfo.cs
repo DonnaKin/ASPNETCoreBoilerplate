@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreBoilerplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0403c602421dd651da546e6c871a3723407e0f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab618c23a0f42894ad5abbd46a5394bc119d674")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreBoilerplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreBoilerplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
