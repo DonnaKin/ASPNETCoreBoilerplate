@@ -24,9 +24,10 @@ origin <your githhub repository url> (push)
 
 ```
 // bootstrap.sh에 대한 실행 권한을 줍니다.
+cd ./Scripts
 chmod +x bootstrap.sh
 
-/Scripts/bootstrap.sh
+./bootstrap.sh
 Enter the new project name: <your project name>
 Project files have been updated.
 ```
@@ -34,7 +35,9 @@ Project files have been updated.
 ### powershell
 
 ```
-/Scripts/bootstrap.ps1
+cd ./Scripts
+
+./bootstrap.ps1
 Enter the new project name: <your project name>
 Project files have been updated.
 ```
